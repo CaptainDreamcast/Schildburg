@@ -1,0 +1,10 @@
+include Makefile.common
+OBJS = $(OBJS) assets_web.o
+
+all: complete
+
+clean_user:
+	
+PRISM_PATH = ..\addons\prism
+ADDITIONAL_PRELOADS = --preload-file assets\data@data --preload-file assets\enemies@enemies  --preload-file assets\font@font  --preload-file assets\levels@levels  --preload-file assets\logo@logo  --preload-file assets\player@player  --preload-file assets\stories@stories 
+include ../addons/prism/Makefile.commonweb

@@ -1,0 +1,11 @@
+3003
+60
+6
+Mermaid
+2
+Mermaid uses flood! If you had items, they'd be drenched!
+5003
+20
+Mermaid flops into $! Flop flop flop!
+5004
+10

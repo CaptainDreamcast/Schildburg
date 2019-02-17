@@ -1,0 +1,42 @@
+King Schild: Oh great hero Leon and his sidekick Myau, I welcome you to Schildburg!
+Oscar: No, I'm Oscar and this is PomPom. Leon was sick so we came instead. Glad ta meet ya!
+PomPom: Glad ta meet ya wallet!
+King Schild: (Is this going to be okay?)
+King Schild: *A-hem*, ever since the tragic death of my wife, my daughter has been holed up in her room.
+King Schild: Your mission is to escort her to my brother's kingdom, Schwertburg.
+King Schild: I would take her myself, but a terrifying witch has taken up residence in the woods near Schwertburg.
+King Schild: So I beg of you:
+King Schild: Please show her the world. Heal her broken heart.
+Oscar: !!
+King Schild: Your rewards shall be plenty.
+PomPom: !!
+Oscar&PomPom: WE ACCEPT!
+King Schild: I will fetch my daughter. Please wait here.
+$ 1 2001 16 6 1
+- 1 0
+- 2 1
+Oscar: I can't wait, I can't wait. This is it, man!
+$ 2 2002 10 6 1
+/ 2 2003
+Oscar: ...
+PomPom: ...
+Linga: ...
+Oscar: Motherf-
+PomPom: PG-13! PG-13!
+Oscar: IT'S JUST THE OLD MAN IN A DRESS!
+Linga: Hello, oh heroes. My name is Linga, the first princess of Schildburg. I hope you will take good care of me.
+PomPom: I'm PomPom the Pomeranyan and this is Oscar, the bachelor in search of a girlfriend.
+Oscar: Are you trying to kill me?
+Linga: Hello, Sir PomPom and Sir Oscar. I look forward to our journey.
+Oscar: Let's leave, this is too kooky for me.
+PomPom: (Are you insane? We're so poor we can't even replace our item bags!)
+PomPom: (They've been ripped for months! What's an adventurer without items?)
+PomPom: What Oscar meant to say was, "let's leave, castles are too spooky for me!", haha!
+Linga: Haha, Sir Oscar is so funny!
+PomPom: And strong too! We already hit the level cap, so we are as strong as it gets!
+Oscar: If you are going to handwave every unimplemented feature, we're still going to be here tomorrow.
+Oscar: Let's get this over with fast, so we can find a REAL princess.
+Linga: Please lead the way, Sir Oscar.
+- 2 0
++
+&

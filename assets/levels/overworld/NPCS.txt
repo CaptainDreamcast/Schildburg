@@ -1,0 +1,13 @@
+0
+1 2000 10 6 1
+King Schild
+3
+P- please stand in front of me.
+I'm a king and want to be treated like one.
+Don't be like my ex-wife.
+2 2002 16 6 0
+Linga
+3
+P- please stand in front of me.
+I'm a king and want to be treated like one.
+Don't be like my ex-wife.

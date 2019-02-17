@@ -1,0 +1,20 @@
+5000
+1000
+11
+Witch
+5
+The witch does a card trick! $ gets a cut from the card!
+5002
+60
+The witch uses meteor! Apocalyptic damage!
+5003
+50
+The witch reduces the parties' luck!
+5004
+0
+The witch shakes a pencil and makes it look wobbly! Damage to $!
+5005
+50
+The witch takes off her thumb and throws it like a boomerang!
+5006
+40

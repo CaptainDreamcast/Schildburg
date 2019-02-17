@@ -1,0 +1,23 @@
+(
+???: In a distant time-
+???: During the age of fairy tails-
+???: Brave heroes carved out their destiny-
+???: By saving princesses-
+???: Yes, mostly by saving princesses-
+???: This is the story of one of those heroes:
+)
+= 0 1 0
+= 1 -1 0
+PomPom: Oscar.
+Oscar: PomPom.
+PomPom: We're going to be filthy rich!
+Oscar: PomPom, we are true heroes. We don't work for money.
+Oscar: I just want to see the princess' big boo-
+PomPom: PG-13! Keep it PG-13!
+Oscar: I just want to see the princess' big bookshelves?
+PomPom: Saved it.
+Oscar: It's about time a princess falls in love with me!
+PomPom: Don't forget your best friend PomPom.
+PomPom: Don't forget the large monetary gifts for him after you become a princess lover.
+King Schild: (Are they ever going to come? This is getting awkward.)
+&

@@ -1,0 +1,11 @@
+3001
+60
+6
+Centaur
+2
+Centaur uses stampede! The party is worried!
+5005
+10
+Centaur questions $'s life choices!
+5006
+30

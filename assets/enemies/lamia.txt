@@ -1,0 +1,11 @@
+3000
+100
+6
+Lamia
+2
+Lamia squeezes $ in a friendly way, but still slightly too much!
+5000
+30
+Lamia shows off her ballerina moves and accidentally hits everybody!
+5001
+10
